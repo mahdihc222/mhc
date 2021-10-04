@@ -10,7 +10,6 @@
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
-    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
